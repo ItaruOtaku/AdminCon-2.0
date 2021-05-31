@@ -1,0 +1,10 @@
+C:\Users\Dannis\source\repos\AdminConsole_released\bin\x86\Release\Win10Maid.exe.config
+C:\Users\Dannis\source\repos\AdminConsole_released\bin\x86\Release\Win10Maid.exe
+C:\Users\Dannis\source\repos\AdminConsole_released\bin\x86\Release\Win10Maid.pdb
+C:\Users\Dannis\source\repos\AdminConsole_released\obj\x86\Release\Win10Maid.winmaidForm.resources
+C:\Users\Dannis\source\repos\AdminConsole_released\obj\x86\Release\AdminCon.Properties.Resources.resources
+C:\Users\Dannis\source\repos\AdminConsole_released\obj\x86\Release\Win10Maid.csproj.GenerateResource.cache
+C:\Users\Dannis\source\repos\AdminConsole_released\obj\x86\Release\Win10Maid.csproj.CoreCompileInputs.cache
+C:\Users\Dannis\source\repos\AdminConsole_released\obj\x86\Release\Win10Maid.exe
+C:\Users\Dannis\source\repos\AdminConsole_released\obj\x86\Release\Win10Maid.pdb
+C:\Users\Dannis\source\repos\AdminConsole_released\obj\x86\Release\Win10Maid.csprojAssemblyReference.cache
